@@ -12,10 +12,14 @@ console.log(nowTime);
 console.log(compareTime);
 
 var setCurrentDay = function () {
+  
   var setDate = (currentDayEl.innerText = nowDate);
   return setDate;
 };
 
+var saveTasks = function() {
+  localStorage.setItem("text", JSON.stringify(innerText));
+};
 
 var convertTime = function (value) {};
 
