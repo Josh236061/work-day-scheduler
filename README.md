@@ -30,3 +30,6 @@ THEN the saved events persist
 GitHub Repo URL: https://github.com/Josh236061/work-day-scheduler/
 
 Publish Website URL: https://josh236061.github.io/work-day-scheduler/
+
+Screenshot of Published Project:
+![work-scheduler-SS_JT](https://user-images.githubusercontent.com/71394743/190549690-35220165-9657-4cf2-b098-63d2ee86a18a.png)
